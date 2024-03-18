@@ -10,3 +10,7 @@ func Hallo() {
 func Kita() {
 	fmt.Println("makan")
 }
+
+func Jeneng(Alok string)  {
+	fmt.Println("hallo", Alok)
+}
