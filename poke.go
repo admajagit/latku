@@ -4,9 +4,9 @@ import "fmt"
 
 
 func Hallo() {
-	fmt.Println("hallo")
+	fmt.Println("bakso makan")
 }
 
 func Kita() {
-	fmt.Println("kita")
+	fmt.Println("makan")
 }
