@@ -3,14 +3,10 @@ package latihanmodule
 import "fmt"
 
 
-func Hallo() {
-	fmt.Println("bakso makan")
+func Hallo(kata string) {
+	fmt.Println("hallo " , kata)
 }
 
-func Kita() {
-	fmt.Println("makan")
-}
-
-func Jeneng(Alok string)  {
-	fmt.Println("hallo", Alok)
+func Kita(makan string) {
+	fmt.Println("sekarang ",makan)
 }

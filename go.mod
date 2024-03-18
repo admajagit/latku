@@ -1,4 +1,4 @@
-module github.com/admajagit/latku
+module github.com/admajagit/latku/v2
 
 go 1.22.0
 
